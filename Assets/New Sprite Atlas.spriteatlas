@@ -31,14 +31,24 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 2800000, guid: 92fe77f03c4f0e94e99a01f6966fdfac, type: 3}
-    totalSpriteSurfaceArea: 0
+    - {fileID: 2800000, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+    totalSpriteSurfaceArea: 8896
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: -4407844350891824511, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+  - {fileID: 6177590614404717431, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+  - {fileID: 8961452254448362981, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+  - {fileID: -8007592215144710777, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+  - {fileID: 4450532107648106798, guid: 1fba3f2abca0f874bb9dcfcc663666c2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TransitionTerrainTiles_0
+  - TransitionTerrainTiles_3
+  - TransitionTerrainTiles_2
+  - TransitionTerrainTiles_5
+  - TransitionTerrainTiles_4
   m_RenderDataMap: {}
   m_Tag: New Sprite Atlas
   m_IsVariant: 0
